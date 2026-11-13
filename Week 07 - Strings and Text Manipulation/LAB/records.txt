@@ -1,0 +1,5 @@
+server1,used=50,total=100
+server2,used=95,total=100
+server3,used=100,total=100
+server4,used=70,total=100
+server5,used=90,total=100
